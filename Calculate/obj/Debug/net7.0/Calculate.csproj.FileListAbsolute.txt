@@ -1,0 +1,14 @@
+C:\Users\Bruno\Documents\repositorio\Balta\Calculate\bin\Debug\net7.0\Calculate.exe
+C:\Users\Bruno\Documents\repositorio\Balta\Calculate\bin\Debug\net7.0\Calculate.deps.json
+C:\Users\Bruno\Documents\repositorio\Balta\Calculate\bin\Debug\net7.0\Calculate.runtimeconfig.json
+C:\Users\Bruno\Documents\repositorio\Balta\Calculate\bin\Debug\net7.0\Calculate.dll
+C:\Users\Bruno\Documents\repositorio\Balta\Calculate\bin\Debug\net7.0\Calculate.pdb
+C:\Users\Bruno\Documents\repositorio\Balta\Calculate\obj\Debug\net7.0\Calculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Documents\repositorio\Balta\Calculate\obj\Debug\net7.0\Calculate.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\repositorio\Balta\Calculate\obj\Debug\net7.0\Calculate.AssemblyInfo.cs
+C:\Users\Bruno\Documents\repositorio\Balta\Calculate\obj\Debug\net7.0\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\repositorio\Balta\Calculate\obj\Debug\net7.0\Calculate.dll
+C:\Users\Bruno\Documents\repositorio\Balta\Calculate\obj\Debug\net7.0\refint\Calculate.dll
+C:\Users\Bruno\Documents\repositorio\Balta\Calculate\obj\Debug\net7.0\Calculate.pdb
+C:\Users\Bruno\Documents\repositorio\Balta\Calculate\obj\Debug\net7.0\Calculate.genruntimeconfig.cache
+C:\Users\Bruno\Documents\repositorio\Balta\Calculate\obj\Debug\net7.0\ref\Calculate.dll
